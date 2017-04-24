@@ -9,8 +9,8 @@
         <style type="text/css">
            <%@include file="bootstrap/css/bootstrap.css" %>
             <%@include file="bootstrap/css/start.css" %>
- 
-            
+            <%@include file="bootstrap/css/jquery-ui.css" %>
+           
 
            
         </style> 
@@ -25,6 +25,10 @@
         <link href="datepicker/datepicker3.css" rel="stylesheet">
         
         <script src="datepicker/bootstrap-datepicker.js"></script>
+        
+        
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     </head>
     <body>
 
